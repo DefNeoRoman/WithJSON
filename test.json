@@ -1,0 +1,17 @@
+{
+	"articles": [
+		{
+			"id": 1,
+			"name": "How to build"
+		},
+		{
+			"id": 2,
+			"name": "Reading JSON using the jQuery library"
+		},
+
+		{
+			"id": 3,
+			"name": "Learning JavaScript"
+		}
+	]
+}
